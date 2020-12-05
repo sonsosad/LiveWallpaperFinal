@@ -1,4 +1,4 @@
-Firebase
-Mircosoft Azure Vision
-Facebook Sdk
-cre by EDMT
+Firebase,
+Mircosoft Azure Vision,
+Facebook Sdk,
+cre by EDMT,
